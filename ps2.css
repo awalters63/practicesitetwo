@@ -1,0 +1,32 @@
+article {
+	background-color: #C5A9F6;
+}
+
+h1 {
+	text-align: center;
+	border: 2px solid #3C2367;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+section {
+	border: 2px solid #3C2367
+}
+
+p {
+	color: #11133E
+}
+
+img {
+	max-width: 100%
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
