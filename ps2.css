@@ -23,10 +23,14 @@ p {
 	color: #11133E
 }
 
-figure {
+img {
 	max-width: 100%
 	height: auto;
+}
+
+figure {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	width: 50%;
 }
